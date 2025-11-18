@@ -1,5 +1,5 @@
 {
-  "name": "@retts/utilities-helper",
+  "name": "@retts-packages/utilities-helper",
   "version": "1.0.0",
   "description": "Utilities Helper Functions - A collection of utility functions for modern JavaScript/TypeScript applications",
   "type": "module",
@@ -50,7 +50,7 @@
     "date",
     "crypto"
   ],
-  "author": "",
+  "author": "retts",
   "license": "ISC",
   "devDependencies": {
     "@types/html-to-text": "^9.0.4",

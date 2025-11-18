@@ -1,5 +1,5 @@
 /**
- * @retts/utilities-helper
+ * @retts-packages/utilities-helper
  * A collection of utility functions for modern JavaScript/TypeScript applications
  */
 
